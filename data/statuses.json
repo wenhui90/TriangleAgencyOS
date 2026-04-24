@@ -4,6 +4,10 @@
     "散逸端": 10,
     "news": [
       {
+        "date": "2026-04-25",
+        "text": "新机构建成 - BCC"
+      },
+      {
         "date": "2026-03-02",
         "text": "AgencyOS现同步三联城地图"
       },
@@ -46,8 +50,8 @@
     ]
   },
   "gm": {
-    "name": "哈里斯.卡菲.D.威尔斯",
-    "aka": "哈里灰尔我只是继续测试",
+    "name": "哈里斯.灰某",
+    "aka": "我不是Vinz",
     "lore": "<div class=\"ta-report-header\">\n        <div class=\"ta-report-logo\">🔺 TRIANGLE AGENCY</div>\n        <div class=\"ta-report-doc-type\">联合评估处理文件</div>\n        <div class=\"ta-report-meta\">\n          <span>文档等级：限制流通</span>\n          <span>文档编号：TA–JOINT–Δ–071</span>\n          <span>状态：有效｜已生效｜不可撤销</span>\n        </div>\n      </div>\n      <div class=\"ta-report-section\">\n        <div class=\"ta-report-section-title\">登记信息</div>\n        <div class=\"ta-report-body\">\n          <p>评估对象登记名：Harris.Cafe.De.Wheels</p>\n          <p>原行动代号：Iceman（已注销）</p>\n          <p>原所属部门：研发部</p>\n          <p>评估发起单位：三角机构</p>\n          <p>联合评估单位：异常协调侧</p>\n          <p>文件性质：最终处理记录</p>\n        </div>\n      </div>\n      <div class=\"ta-report-section\">\n        <div class=\"ta-report-section-title\">文件生成说明（当前可见版本）</div>\n        <div class=\"ta-report-body\">\n          <p>本文件为罕见的联合生成文本。其生成过程未完全遵循常规审批路径。【原句已覆盖】\"该文件的存在本身构成结构性异常。\"当前版本允许被阅读，但不建议被理解。</p>\n        </div>\n      </div>\n      <div class=\"ta-report-divider\"></div>\n      <div class=\"ta-report-section\">\n        <div class=\"ta-report-section-title\">履历摘要（删减）</div>\n        <div class=\"ta-report-body\">\n          <p>Iceman 曾参与多起现实稳定级别行动，其行动特征高度一致：</p>\n          <p class=\"bullet\">优先消除现实层不确定性</p>\n          <p class=\"bullet\">回避对异常的解释、记录与再利用</p>\n          <p class=\"bullet\">明确拒绝为异常提供\"合理性\"或\"意义\"</p>\n          <p>其行动结果在短期内被评估为高度有效，但在中长期评估中暴露出以下问题：</p>\n          <p class=\"bullet\">异常残留率异常偏低</p>\n          <p class=\"bullet\">叙事复用价值为零</p>\n          <p class=\"bullet\">机构干预痕迹不可追溯</p>\n          <p class=\"ta-report-note\">注：相关成果最初由研发部归档，后因复现性不足被移出主评估体系。</p>\n        </div>\n      </div>\n      <div class=\"ta-report-divider\"></div>\n      <div class=\"ta-report-section\">\n        <div class=\"ta-report-section-title\">异常侧交互评估</div>\n        <div class=\"ta-report-body\">\n          <p>自<span class=\"redacted\">████████</span>起，异常对该个体表现出如下反应：</p>\n          <p class=\"bullet\">接触前自我瓦解</p>\n          <p class=\"bullet\">叙事锚点失效</p>\n          <p class=\"bullet\">观测记录中出现\"未发生\"的空段</p>\n          <p>异常协调侧联合评估意见（摘要）：</p>\n          <p>\"目标个体拒绝最低限度叙事承认。\" \"继续接触将导致异常概念层死亡。\"</p>\n          <p>该评估直接导致：异常协调侧将目标列为非接触对象；所有异常利用方案被否决。</p>\n        </div>\n      </div>\n      <div class=\"ta-report-divider\"></div>\n      <div class=\"ta-report-section\">\n        <div class=\"ta-report-section-title\">机构侧冲突评估</div>\n        <div class=\"ta-report-body\">\n          <p>问题不在于违规。问题在于结果。</p>\n          <p>目标行为在统计意义上表明：</p>\n          <p class=\"bullet\">现实稳定可在低异常介入条件下持续</p>\n          <p class=\"bullet\">机构存在的必要性被削弱</p>\n          <p class=\"bullet\">三角结构被边缘化为\"非必要解释层\"</p>\n          <p>机构侧结论摘要：</p>\n          <p>\"该个体正在证明一个危险前提：世界并不需要三角机构持续存在。\" 该前提不可接受。</p>\n        </div>\n      </div>\n      <div class=\"ta-report-divider\"></div>\n      <div class=\"ta-report-section\">\n        <div class=\"ta-report-section-title\">最终处理决定（已执行）</div>\n        <div class=\"ta-report-body\">\n          <p><strong>一、异常体剥离</strong></p>\n          <p>异常体及其残留被系统性剥离个体。未发现抵抗、叙事回弹或记忆污染。剥离过程<span class=\"redacted\">████████</span></p>\n          <p class=\"ta-report-note\">异常协调侧内部说明：\"这并非成功。\" \"这是异常第一次被如此彻底地忽略。\"</p>\n          <p><strong>二、现实关系保留（约束用途）</strong></p>\n          <p>该个体的现实社会关系未被清除。相反，被完整保留、标记并锚定。包括但不限于：亲属关系、工作经历、未完成的人生路径。其功能不再是身份。而是要挟条件。</p>\n          <p class=\"ta-report-note\">机构内部说明：只要这些关系仍然存在，他就不会离开结构。不是因为忠诚，而是因为责任。</p>\n          <p><strong>三、角色降级与重分配</strong></p>\n          <p>原行动代号 Iceman 正式注销。一切现场与决策权限被中止。重分配至非行动、非决策岗位。对外称谓：总经理。对内功能：叙事调度与结构稳定单元。</p>\n          <p>该岗位的本质定义为：让其持续观察却无法再介入；让其理解一切却无法再证明。</p>\n        </div>\n      </div>\n      <div class=\"ta-report-divider\"></div>\n      <div class=\"ta-report-section\">\n        <div class=\"ta-report-section-title\">当前状态评估</div>\n        <div class=\"ta-report-body\">\n          <p>评估对象：Harris.Cafe.De.Wheels 哈里</p>\n          <p class=\"bullet\">保留全部记忆</p>\n          <p class=\"bullet\">失去一切行动可能</p>\n          <p class=\"bullet\">被允许存在，但不被允许改变</p>\n          <p class=\"ta-report-note\">异常协调侧最终注记：\"异常失去了一个敌人。\" \"也失去了一个见证者。\"</p>\n          <p class=\"ta-report-note\">机构侧最终确认：\"他曾经是工具。\" \"现在是结构。\"</p>\n        </div>\n      </div>\n      <div class=\"ta-report-divider\"></div>\n      <div class=\"ta-report-section\">\n        <div class=\"ta-report-section-title\">文件结语（联合确认）</div>\n        <div class=\"ta-report-body\">\n          <p>本处理结果为当前条件下的唯一可行方案。不存在替代路径。</p>\n          <p>本文件被反复修改的原因已不再重要。重要的是：每一次修改，结论都没有改变。</p>\n          <p>当一个人完全站在现实一侧时，所有结构都会感到威胁。</p>\n        </div>\n      </div>"
   },
   "agents": [
@@ -313,7 +317,7 @@
           "struck": 4
         }
       },
-      "机构头衔": "专员"
+      "机构头衔": "见习生"
     },
     {
       "id": "agent-3",
@@ -504,7 +508,7 @@
           "struck": 21
         }
       },
-      "机构头衔": "执行副总裁"
+      "机构头衔": "助理总监"
     },
     {
       "id": "agent-5",
